@@ -16,7 +16,7 @@ height = int(height / 3)
 
 color = pyautogui.pixel(width, height)
 hexColor = '%02x%02x%02x' % color
-print hexColor
+print(hexColor)
 if hexColor == '007bb9':
     pyautogui.click(width, height)
     time.sleep(.7)
@@ -64,8 +64,8 @@ if hexColor == '007bb9':
 
            # pyautogui.click(width-364+x,280+y)
 
-        print xList
-        print yList
+        print(xList)
+        print(yList)
 
         x = 0
         while x < len(xList):

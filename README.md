@@ -3,26 +3,6 @@
 > A bot for humanbenchmark.com that can play all the games works best on 1920 by 1080 screens with bookmarks turned off. To use, simply run the python script to the corresponding game name.
 
 
-## Features
-
-### Reaction Time
-![Reaction Time GIF](https://raw.githubusercontent.com/darshanbhatta/HumanBenchmarkBot/master/reaction.gif)
-### Verbal Memory
-![Verbal Memory GIF](https://raw.githubusercontent.com/darshanbhatta/HumanBenchmarkBot/master/verbal.gif)
-### Visual Memory
-![Visual Memory GIF](https://raw.githubusercontent.com/darshanbhatta/HumanBenchmarkBot/master/visual.gif)
-### Number Memory
-![Number Memory GIF](https://raw.githubusercontent.com/darshanbhatta/HumanBenchmarkBot/master/number.gif)
-
-
-## Installation
-
-### Clone
-
-```
-git clone https://github.com/darshanbhatta/HumanBenchmarkBot.git
-```
-
 ### Setup
 
 - Install [Python 3.6.5 or greater](https://www.python.org/downloads/)
